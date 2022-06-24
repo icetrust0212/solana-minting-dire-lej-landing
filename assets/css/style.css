@@ -4165,7 +4165,7 @@ index_v4
     min-width: 152px;
     font-family: 'Bakbak One';
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 18px;
     text-transform: uppercase;
     color: #111111;
@@ -5877,7 +5877,24 @@ Collections
     font-weight: 400;
     color: rgba(255, 255, 255, 0.8);
 }
+.logo-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0px;
+    color: white;
+}
 
+.logo-text h1 {
+    padding: 0;
+    margin: 0;
+    font-weight: 900;
+    font-family: 'Agrandir Wide';
+}
 
+.logo-text span {
+    font-family: 'PT Sans';
+}
 
 
