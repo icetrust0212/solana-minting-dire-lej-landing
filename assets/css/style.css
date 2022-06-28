@@ -1685,7 +1685,7 @@ body .modal-backdrop {
 .about_us_text_card{
     background: rgba(255, 255, 255, 0.05);
     width: 100%;
-    min-height: 220px;
+    min-height: 280px;
     padding: 35px;
 }
 .about_us_text_card h3 {
@@ -5895,6 +5895,11 @@ Collections
 
 .logo-text span {
     font-family: 'PT Sans';
+}
+
+.logo {
+    width: 140px;
+    height: auto;
 }
 
 
