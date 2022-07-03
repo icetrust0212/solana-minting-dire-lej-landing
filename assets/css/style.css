@@ -2146,7 +2146,8 @@ body .modal-backdrop {
 .team_social_icon ul{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 12px;
     max-width: 197px;
     width: 100%;
 }
