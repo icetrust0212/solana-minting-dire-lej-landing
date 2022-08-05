@@ -5921,3 +5921,31 @@ Collections
     height: 100%;
     background: #000000cc;
 }
+
+.rarity-system {
+    margin-bottom: 100px;
+}
+
+@media(max-width: 576px) {
+    .rarity-system {
+        margin-bottom: 80px;
+    }
+    .rarity-images {
+        flex-direction: column;
+    }
+    .rarity-images img {
+        width: 100% !important;
+    }
+}
+
+.rarity-images {
+    display: flex;
+    width: 100%;
+    max-width: 3000px;
+    margin-top: 30px;
+}
+
+.rarity-images img {
+    flex: 1;
+    width: 0;
+}
