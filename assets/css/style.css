@@ -5946,6 +5946,5 @@ Collections
 }
 
 .rarity-images img {
-    flex: 1;
-    width: 0;
+    width: 50%;
 }
