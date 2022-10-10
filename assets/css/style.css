@@ -5948,3 +5948,14 @@ Collections
 .rarity-images img {
     width: 50%;
 }
+
+.join-opensea {
+    padding: 15px 30px;
+    border-radius: 8px;
+    background: #262255;
+    color: white;
+    margin-top: 30px;
+}
+.join-opensea img {
+    margin-right: 15px;
+}
